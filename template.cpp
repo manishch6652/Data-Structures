@@ -30,6 +30,7 @@ typedef vector<LL >  vi;
 int main()
 {
     //SPEEDUP;
+    int x;
 	return 0;
 	
 } 
