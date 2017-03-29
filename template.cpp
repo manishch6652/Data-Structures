@@ -29,7 +29,7 @@ typedef pair<LL, LL>  pii;
 typedef vector<LL >  vi;
 int main()
 {
-    SPEEDUP;
+    //SPEEDUP;
 	return 0;
 	
 } 
